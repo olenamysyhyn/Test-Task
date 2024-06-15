@@ -1,11 +1,11 @@
 # Test-Task
 Завдання 1 та 2 було виконане за допомогою запитів
 ### (1)
-![Query1](https://github.com/olenamysyhyn/Test-Task/blob/main/images/task_status_daration1.png)
+![Query1](https://github.com/olenamysyhyn/Test-Task/blob/main/images/task_status_duration1.png)
 Отримала ось такий вивід(тут зробила ліміт перших 15, детальніше у .csv файлі task_status_duration.csv)
 ![Output11](https://github.com/olenamysyhyn/Test-Task/blob/main/images/task_status_daration2.png)
 ### (2)
-![Query1](https://github.com/olenamysyhyn/Test-Task/blob/main/images/task_status_daration_seconds1.png)
+![Query1](https://github.com/olenamysyhyn/Test-Task/blob/main/images/task_status_duration_seconds1.png)
 Отримала ось такий вивід(тут зробила ліміт перших 15, детальніше у .csv файлі task_status_duration_seconds.csv)
 ![Output11](https://github.com/olenamysyhyn/Test-Task/blob/main/images/task_status_daration_seconds2.png)
 
